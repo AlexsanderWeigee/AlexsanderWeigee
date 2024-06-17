@@ -18,5 +18,5 @@
 
 - 👨‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas; <br/>
 - 💼 Estou a procura de um estágio para poder ingressar no mercado de trabalho;<br/>
-- 👨🏻‍💻 Atualmente estou aprendendo C# e Python;<br/>
-- 📊 Atualmente eu trabalho como Jovem Aprendiz na Claro na Área Técnica extraindo dados de relatórios para construir planilhas interativas;
+- 👨🏻‍💻 Atualmente estou aprendendo HTML, CSS, Java Script e Java;<br/>
+- 📊 Atualmente estou me proficionalizando na área de Full Stack Java;
