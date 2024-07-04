@@ -17,9 +17,11 @@
     <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white">
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <!--<img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">-->
 </div><br/>
 
 - 👨‍🎓 Estou estudando Análise e Desenvolvimento de Sistemas; <br/>
 - 💼 Estou a procura de um estágio para poder ingressar no mercado de trabalho;<br/>
 - 👨🏻‍💻 Atualmente estou aprendendo HTML, CSS, Java Script e Java;<br/>
 - 📊 Atualmente estou me proficionalizando na área de Full Stack Java;
+<!--Link do site de badge: https://dev.to/envoy_/150-badges-for-github-pnk-->
